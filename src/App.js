@@ -2,8 +2,8 @@ import React from 'react';
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 import Layout from './Layout';
 import Home from './components/Home';
-import Register from './components/authentication/register'
-import Login from './components/authentication/login.js'
+import Register from './components/authentication/Register'
+import Login from './components/authentication/Login'
 
 const App = () =>{
   return(
