@@ -19,7 +19,8 @@ const Login = () => {
                <div class="forgetpass">
 <Link to="#">Forget Password</Link>
                 <button type="submit" class="btn register-button">Register</button>
-           </form>
+           </div>
+</form>
 
 <div class="register">
 <Link to="#">Create a new Account</Link>
