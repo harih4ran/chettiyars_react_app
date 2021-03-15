@@ -14,7 +14,7 @@ const Login = () => {
                 </div>
                 <div class="form-group form-box">
                     <label for="pass">Password</label>
-                    <input type="text" class="form-control" id="pass" placeholder="Password" />
+                    <input type="password" class="form-control" id="pass" placeholder="Password" />
                 </div>
                <div class="forgetpass">
 <Link to="#">Forget Password</Link>
