@@ -65,19 +65,18 @@
     color: white;
     background-color: #fc5012;
     border-radius: 0;
-text-align:center;
+align-items:center;
 }
 
 .register-button:hover {
     color: white;
     background-color: #fc5012;
     border-radius: 0;
-text-align-center;
+align-items:center;
     opacity: 0.7;
 }
 .forget-pass,.register {
-text-decoration:none;
-color:black
+color:black;
 
 }
 .forget-pass:hover,.register:hover {
