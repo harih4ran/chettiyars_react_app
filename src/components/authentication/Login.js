@@ -26,6 +26,7 @@ const Login = () => {
 <div class="register">
 <Link to="#">Create a new Account</Link>
             </div>
+</div>
             </div>
         </div>
     )
